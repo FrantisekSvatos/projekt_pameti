@@ -71,9 +71,14 @@
         margin-right: auto;
     }
 
-    .ram {
+    .obrazek {
         height: 200px;
-        width: 300px;
+        width: 200px;
+    }
+
+    .hdd {
+        max-width: 300px;
+        max-height: 200px;
     }
 
     .konec {
